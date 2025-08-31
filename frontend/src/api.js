@@ -16,4 +16,8 @@ const api = {
   }
 };
 
+<<<<<<< HEAD
 export default api;
+=======
+export default api;
+>>>>>>> 6450717124a713e3ef29df68bfa41137daa050b0
